@@ -48,7 +48,7 @@ bun add root-pkg-json
 
 ## Usage
 ```ts
-import { rootPkgJSON } from "lerna-npm-proxy";
+import { rootPkgJSON } from "root-pkg-json";
 
 // Returns an absolute path to the root package.json
 const pkgJSON = await rootPkgJSON(); // string | undefined
