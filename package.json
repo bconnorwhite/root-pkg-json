@@ -9,7 +9,7 @@
     "email": "hello@connorwhite.dev",
     "url": "https://connorwhite.dev"
   },
-  "homepage": "https://connorwhite.dev/github/root-pkg-json",
+  "homepage": "https://connorwhite.dev/github/root-pkg-json#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bconnorwhite/root-pkg-json.git"
