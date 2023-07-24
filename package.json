@@ -37,6 +37,7 @@
   ],
   "scripts": {
     "build": "auto build",
+    "prepack": "auto build",
     "release": "auto release"
   },
   "dependencies": {
